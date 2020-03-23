@@ -1,6 +1,9 @@
-# Quasar App (plantilla-onsenui-vue)
+# Quasar App (Plantilla Quasar PWA / AWS Amplify )
 
-A Quasar Framework app
+Prueba de Rendimiento
+
+![Screenshot_49](https://user-images.githubusercontent.com/27373195/77269444-43a8be00-6c7f-11ea-9513-c393b2ff7351.png)
+
 
 ## Install the dependencies
 ```bash
